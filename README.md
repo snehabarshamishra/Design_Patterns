@@ -15,7 +15,7 @@ Training PPT by Pradeep L N
 * Decorator Pattern
 * State Pattern
 * Strategy Pattern
-* Visitor Pattern
+* Visitor Pattern -> Has dual dispatch
 * Acyclic Visitor Pattern
 * Adapter Pattern
 * Command Pattern
