@@ -1,5 +1,5 @@
 package before1;
-
+# Telescopic Constructor Anti-pattern
 public class RequestForLoan {
 	
 	public static enum ApplicantType{
