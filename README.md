@@ -1,6 +1,5 @@
 # Design_Patterns
-OO Design patterns
-Training PPT by Pradeep L N
+OO Design patterns talk by Pradeep L N
 
 ## Contents
 
